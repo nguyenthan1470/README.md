@@ -1,101 +1,63 @@
-<h1 align="center">👋 Hello World, I'm Nguyen Cu Ty</h1>
 <p align="center">
-  🎨 UI/UX Designer & 💻 Frontend Developer from Vietnam <br/>
-  Passionate about building beautiful, fast and user-centered applications.
+  <img src="https://avatars.githubusercontent.com/u/your_user_id?v=4" width="120" style="border-radius: 50%" />
+</p>
+
+<h1 align="center">Hi, I'm <span style="color:#4ade80">Nguyen Cu Ty</span> 👋</h1>
+<p align="center">🎨 UI/UX Designer • 💻 Frontend Developer • 🌱 Life-long Learner</p>
+
+<p align="center">
+  <a href="mailto:nguyenthan1470@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/nguyenthan1470"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://your-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4ADE80?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📌 About Me
+## 🧠 About Me
 
-I'm a 20-year-old developer and designer based in An Giang, Vietnam.  
-With a strong passion for frontend development and UI/UX design, I love crafting clean, elegant, and intuitive interfaces for modern web applications.
-
-I believe that great user experience lies in the balance between **visual appeal** and **functional clarity**.  
-Through my journey, I've worked on multiple real-world projects, learning how to combine code with creativity.
-
----
-
-### 🔭 What I'm Working On
-
-- 🚀 **Bach Hoa NCT** – a modern online grocery store built with Angular, TailwindCSS, and Node.js
-- 🎫 **Football Ticketing System** – QR-based ticket booking with MoMo & VNPay integration, featuring role-based admin dashboard
-- ✨ Custom UI Components Library for Angular – to speed up future project development with reusable, clean components
+- 👨‍💻 20-year-old frontend developer from **An Giang, Vietnam**
+- 💡 Love building responsive, accessible UIs and modern web apps
+- 🚀 Focused on Angular 18, TailwindCSS, and Design Systems
+- 🧩 Passionate about UI/UX thinking & pixel-perfect details
+- 🎧 Music helps me design better. Always!
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 💼 Tech Stack
 
-#### 🔹 Languages & Frameworks:
-- HTML5 / CSS3 / JavaScript (ES6+)
-- TypeScript, Angular 18, React.js
-- Node.js (Express), RESTful APIs
-
-#### 🔹 UI/UX Design Tools:
-- **Figma** – designing wireframes, prototypes, and full UI flows
-- **Adobe Photoshop & Illustrator** – branding, banners, visuals
-
-#### 🔹 Database & Dev Tools:
-- MongoDB (Mongoose)
-- Git & GitHub
-- Vercel / Netlify for deployment
+| Languages | Frameworks | Tools & Others |
+|----------|------------|----------------|
+| HTML, CSS, JS, TS | Angular, React, Node.js | Git, Figma, MongoDB, REST API |
+|  | TailwindCSS, Express | Photoshop, Illustrator |
 
 ---
 
-### 📂 Featured Projects
+## 🔥 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🛒 Bach Hoa NCT](https://bach-hoa-nct.vercel.app) | Full-stack grocery store web app with product management, cart, and responsive UI | Angular, Node.js, MongoDB |
-| 🎫 Football Ticket System | Ticket booking system with seat selection, QR code payments, and admin role | Angular, MoMo API, VNPay |
-| 🧩 UI Component Library | Reusable Angular component set for internal use | Angular, TailwindCSS |
-
-> More projects coming soon...
+- [🛒 Bach Hoa NCT](https://bach-hoa-nct.vercel.app) – Grocery eCommerce Site
+- 🎫 Football Ticket Booking with QR Payments (MoMo, VNPay)
+- 💻 Admin Dashboard with Role Permissions & Email Confirmation
 
 ---
 
-### 🌱 Currently Exploring
-
-- ✅ Advanced Angular patterns (Standalone Components, Signals)
-- ✅ Building Design Systems for scalable UI
-- ✅ UX writing and accessibility best practices
-- ✅ Web performance optimization (Lighthouse, lazy-loading, etc.)
-
----
-
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyencuty&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nguyencuty&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenthan1470&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenthan1470&theme=tokyonight" />
 </p>
 
 ---
 
-### 📬 Let's Connect!
+## 📬 Contact
 
-- 📧 Email: nguyenthan1470@gmail.com  
-- 🌐 Portfolio: *Coming soon...*
-- 💼 LinkedIn: *Updating...*
-- 🎯 Available for freelance projects & collaborations
-
----
-
-### 🙌 Fun Facts
-
-- 🎧 I work better with lofi or piano music
-- 📱 I enjoy designing mobile-first UIs
-- ✈️ I love traveling and observing how people use tech in real life
+- Email: nguyenthan1470@gmail.com  
+- Portfolio: *(Coming Soon)*  
+- LinkedIn: *(Updating...)*
 
 ---
 
-### 🚀 Motto
-
-> *"Design is not just what it looks like and feels like. Design is how it works."*  
-> — Steve Jobs
-
----
-
-### ❤️ Thank you for visiting my GitHub profile!
-Feel free to ⭐ any repo you find helpful or interesting!
+<p align="center">
+  <b>"Design is how it works, not just how it looks."</b> – Steve Jobs
+</p>
