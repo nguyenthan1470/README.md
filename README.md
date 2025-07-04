@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-- 👨‍💻 20-year-old frontend developer from **An Giang, Vietnam**
+- 👨‍💻 20-year-old frontend developer from **HoChiMinh, Vietnam**
 - 💡 Love building responsive, accessible UIs and modern web apps
 - 🚀 Focused on Angular 18, TailwindCSS, and Design Systems
 - 🧩 Passionate about UI/UX thinking & pixel-perfect details
@@ -35,7 +35,7 @@
 ## 🔥 Featured Projects
 
 - [🛒 Bach Hoa NCT](https://bach-hoa-nct.vercel.app) – Grocery eCommerce Site
-- 🎫 Football Ticket Booking with QR Payments (MoMo, VNPay)
+- 🎫 Football Ticket Booking with Payment VNPay
 - 💻 Admin Dashboard with Role Permissions & Email Confirmation
 
 ---
